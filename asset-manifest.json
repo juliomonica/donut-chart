@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/donut-chart/static/css/main.dd12168d.chunk.css",
+    "main.js": "/donut-chart/static/js/main.39e67ebc.chunk.js",
+    "main.js.map": "/donut-chart/static/js/main.39e67ebc.chunk.js.map",
+    "runtime-main.js": "/donut-chart/static/js/runtime-main.0e31bbe5.js",
+    "runtime-main.js.map": "/donut-chart/static/js/runtime-main.0e31bbe5.js.map",
+    "static/js/2.3a0b7546.chunk.js": "/donut-chart/static/js/2.3a0b7546.chunk.js",
+    "static/js/2.3a0b7546.chunk.js.map": "/donut-chart/static/js/2.3a0b7546.chunk.js.map",
+    "index.html": "/donut-chart/index.html",
+    "static/css/main.dd12168d.chunk.css.map": "/donut-chart/static/css/main.dd12168d.chunk.css.map",
+    "static/js/2.3a0b7546.chunk.js.LICENSE.txt": "/donut-chart/static/js/2.3a0b7546.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e31bbe5.js",
+    "static/js/2.3a0b7546.chunk.js",
+    "static/css/main.dd12168d.chunk.css",
+    "static/js/main.39e67ebc.chunk.js"
+  ]
+}
