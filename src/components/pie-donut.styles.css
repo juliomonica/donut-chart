@@ -1,0 +1,11 @@
+.svg {
+    text-align: center;
+    align-items: center;
+}
+@media screen and (max-width: 800px) {
+    .svg {
+      flex-direction: column;
+      margin: 0px;
+      padding: 0px;
+    }
+  }

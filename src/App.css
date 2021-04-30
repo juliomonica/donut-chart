@@ -1,0 +1,75 @@
+.App {
+    font-family: sans-serif;
+    display: flex;
+    font-weight: 500; 
+    align-items: center;
+    justify-content: space-between; 
+}
+
+.item {
+    width: 30vw;
+    display: flex;    
+}
+.ul-t {
+    font-size: 12px;
+    margin: 0px;
+    padding: 0px;
+    text-align: left;
+}
+.label-t {
+    width: 150px;
+    text-align: left;
+    margin-top: 150px;
+}
+.ul {
+  font-size: 12px;
+  margin: 0px;
+  padding: 0px;
+  text-align: right;
+}
+.label {
+  width: 150px;
+  text-align: right;
+  margin-top: 150px;
+}
+.custom-button {
+  min-width: 165px;
+  width: auto;
+  height: 50px;
+  letter-spacing: 0.5px;
+  line-height: 50px;
+  padding: 0 35px 0 35px;
+  font-size: 15px;
+  background-color: black;
+  color: white;
+  text-transform: uppercase;
+  font-family: 'Open Sans Condensed';
+  font-weight: bolder;
+  border: none;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+}
+.custom-button:hover{
+  background-color: white;
+  color: black;
+  border: 1px solid black;
+}
+@media screen and (max-width: 800px) {
+  .App {
+    flex-direction: column;
+  }
+  .custom-button {
+    display: none;
+  }
+  .label {
+    width: 150px;
+    text-align: right;
+    margin-top: 150px;
+  }
+  .item {
+    width: 100%;
+    display: flex; 
+    align-items: center; 
+}
+}
