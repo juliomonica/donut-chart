@@ -6,7 +6,7 @@
 Clone and install the dependencies:
 
 ```bash
-$ git clone https://github.com/peleadorsinley/donut-chart.git
+$ git clone https://github.com/juliomonica/donut-chart.git
 $ cd donut-chart/
 $ npm install
 ```
